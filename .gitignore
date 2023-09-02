@@ -162,3 +162,5 @@ cython_debug/
 # Custom
 data/
 trocr/trdg-persian/
+trocr/outputs
+trocr/runs
